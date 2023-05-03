@@ -1,0 +1,198 @@
+# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Note: https://malpedia.caad.fkie.fraunhofer.de/details/py.responder
+
+# Reference: https://twitter.com/drb_ra/status/1651298476020441090
+
+3.253.101.91:5985
+
+# Reference: https://twitter.com/drb_ra/status/1651298513580326925
+# Reference: https://twitter.com/drb_ra/status/1651298518328279062
+
+http://18.220.53.56
+18.220.53.56:443
+
+# Reference: https://twitter.com/drb_ra/status/1651298542915289114
+
+40.118.62.149:445
+
+# Reference: https://twitter.com/drb_ra/status/1651298558916558848
+
+52.9.8.91:445
+
+# Reference: https://twitter.com/drb_ra/status/1651298563408658450
+
+52.9.8.91:443
+
+# Reference: https://twitter.com/drb_ra/status/1651298577828675593
+
+54.74.116.114:5985
+
+# Reference: https://twitter.com/drb_ra/status/1651298622829363228
+# Reference: https://twitter.com/drb_ra/status/1651298628332290056
+# Reference: https://twitter.com/drb_ra/status/1651298634963595264
+
+http://64.227.37.134
+64.227.37.134:443
+64.227.37.134:445
+
+# Reference: https://twitter.com/drb_ra/status/1651298663480557581
+
+http://94.34.157.201
+
+# Reference: https://twitter.com/drb_ra/status/1651298697781682176
+
+146.71.79.148:445
+
+# Reference: https://twitter.com/drb_ra/status/1651298701199933441
+
+146.71.79.148:5985
+
+# Reference: https://twitter.com/drb_ra/status/1651840812278267904
+
+3.140.197.153:445
+
+# Reference: https://twitter.com/drb_ra/status/1651840834348675072
+# Reference: https://twitter.com/drb_ra/status/1651840838241058818
+
+http://18.190.119.137
+18.190.119.137:445
+
+# Reference: https://twitter.com/drb_ra/status/1651840866380644355
+
+34.252.16.250:5986
+
+# Reference: https://twitter.com/drb_ra/status/1651840882411225089
+
+44.202.111.183:443
+
+# Reference: https://twitter.com/drb_ra/status/1651840904779513857
+# Reference: https://twitter.com/drb_ra/status/1651840908181094400
+# Referecne: https://twitter.com/drb_ra/status/1651840911469432833
+
+http://52.143.142.21
+52.143.142.21:443
+52.143.142.21:445
+
+# Reference: https://twitter.com/drb_ra/status/1651840980532834305
+
+92.204.160.126:443
+
+# Reference: https://twitter.com/drb_ra/status/1651841025697038336
+# Reference: https://twitter.com/drb_ra/status/1651841028922408962
+
+http://161.35.122.12
+161.35.122.12:443
+
+# Reference: https://twitter.com/drb_ra/status/1651841045754249217
+
+167.99.191.228:5985
+
+# Reference: https://twitter.com/drb_ra/status/1651841074833285121
+
+http://178.62.3.164
+
+# Reference: https://twitter.com/drb_ra/status/1651841099407794177
+
+216.238.111.216:443
+
+# Reference: https://twitter.com/drb_ra/status/1652021939580354560
+
+34.247.174.193:445
+
+# Reference: https://twitter.com/drb_ra/status/1652021960316993566
+
+45.33.39.117:445
+
+# Reference: https://twitter.com/drb_ra/status/1652021983951896585
+
+54.194.243.187:5985
+
+# Reference: https://twitter.com/drb_ra/status/1652022020203266048
+
+94.103.81.107:445
+
+# Reference: https://twitter.com/drb_ra/status/1652022054013550592
+
+146.71.79.148:443
+
+# Reference: https://twitter.com/drb_ra/status/1652022085659574274
+
+167.71.168.208:5985
+
+# Reference: https://twitter.com/drb_ra/status/1652022101279162370
+
+167.99.191.228:445
+
+# Reference: https://twitter.com/drb_ra/status/1652022134565158931
+
+178.62.3.164:443
+
+# Reference: https://twitter.com/drb_ra/status/1652384922756169732
+
+34.201.16.153:443
+
+# Reference: https://twitter.com/drb_ra/status/1652384940623896578
+
+45.33.39.117:443
+
+# Reference: https://twitter.com/drb_ra/status/1652384971452039170
+
+64.227.37.134:5985
+
+# Reference: https://twitter.com/drb_ra/status/1652385028934885378
+
+http://167.71.168.208
+
+# Reference: https://twitter.com/drb_ra/status/1652385051840004098
+
+170.64.168.1:443
+
+# Reference: https://twitter.com/drb_ra/status/1652385056399163393
+
+170.64.168.1:5985
+
+# Reference: https://twitter.com/drb_ra/status/1652385086132613120
+
+185.227.82.72:443
+
+# Reference: https://twitter.com/drb_ra/status/1652385107074850817
+
+216.238.111.216:445
+
+# Reference: https://twitter.com/drb_ra/status/1652746729869963264
+
+35.180.238.137:443
+
+# Reference: https://twitter.com/drb_ra/status/1652746813441441795
+
+170.64.168.228:5985
+
+# Reference: https://twitter.com/drb_ra/status/1653109212648464407
+
+http://98.70.2.57
+
+# Reference: https://twitter.com/drb_ra/status/1653109254889299978
+
+http://170.64.168.1
+
+# Reference: https://twitter.com/drb_ra/status/1653109260149030912
+
+170.64.168.1:445
+
+# Reference: https://twitter.com/drb_ra/status/1653471547137376281
+# Reference: https://twitter.com/drb_ra/status/1653471551910494225
+# Reference: https://twitter.com/drb_ra/status/1653471555534372890
+
+http://23.239.17.231
+23.239.17.231:443
+23.239.17.231:445
+
+# Reference: https://twitter.com/drb_ra/status/1653471634945105922
+# Reference: https://twitter.com/drb_ra/status/1653471640838197248
+# Reference: https://twitter.com/drb_ra/status/1653471649356759042
+
+http://170.64.168.228
+170.64.168.228:443
+170.64.168.228:445
