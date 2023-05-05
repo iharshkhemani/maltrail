@@ -1233,7 +1233,7 @@ def main():
                 else:
                     break
 
-    print("%s (sensor) #v%s {%s}\n" % (NAME, VERSION, HOMEPAGE))
+    # print("%s (sensor) #v%s {%s}\n" % (NAME, VERSION, HOMEPAGE))
 
     if "--version" in sys.argv:
         raise SystemExit
