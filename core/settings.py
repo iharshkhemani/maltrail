@@ -22,9 +22,9 @@ from core.colorized import init_output
 from core.trailsdict import TrailsDict
 from thirdparty.six.moves import urllib as _urllib
 
-NAME = "Maltrail"
+NAME = "malwarewatchdog"
 VERSION = "0.57"
-HOMEPAGE = "https://maltrail.github.io"
+HOMEPAGE = "https://github.com/iharshkhemani/malwarewatchdog"
 PLATFORM = os.name
 IS_WIN = PLATFORM == "nt"
 IS_SENSOR = "sensor" in sys.argv[0]
